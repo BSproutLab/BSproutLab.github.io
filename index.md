@@ -1,4 +1,4 @@
-JPG
+---
 title: "B.Sprout Lab"
 layout: archive
 excerpt: "Le site du fablab B.Sprout Lab par l'outil Github."
@@ -13,7 +13,6 @@ sidebar:
   - title: "Who are we?"
     text: "co-Founder @[B.SproutLab](http://)<br />
    Fablab @[B.SproutLab](http://)<br />
- 
     "
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
@@ -30,5 +29,5 @@ gallery:
 ## my exploration on minisite github
 ### What exploration?
 
-Bienvenue sur la page officielle de BSprout Lab!
+Bienvenue sur la page officielle de B.Sprout Lab!
 ![image](https://user-images.githubusercontent.com/12049360/32323816-861f4b74-bfc9-11e7-9795-781b90381454.png)
