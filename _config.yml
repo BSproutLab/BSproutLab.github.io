@@ -10,13 +10,13 @@ remote_theme: "mmistakes/minimal-mistakes"
 
 # Site Settings
 locale                   : "fr"
-title                    : "Portfolio valonlisbeth"
+title                    : "Site Web du B.Sprout Lab"
 title_separator          : "-"
-name                     : &name "Sarah Ledjou" # &name is a YAML anchor which can be *referenced later
-description              : &description "mon new website with github and jeckyll"
-url                      : https://valonlisbeth.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "B Sprout Lab" # &name is a YAML anchor which can be *referenced later
+description              : &description "The new website with github and jeckyll"
+url                      : https://bsproutlab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : valonlisbeth/valonlisbeth.gituhb.io GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : BSproutLab/BSproutLab.gituhb.io GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 150
@@ -94,11 +94,11 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : nicolas.de.barquin
+  facebook         : 
   foursquare       :
-  github           : nicolasdb
+  github           : BSproutLab
   gitlab           :
-  google_plus      : +nicolasdeBarquin
+  google_plus      : 
   keybase          :
   instagram        :
   lastfm           :
