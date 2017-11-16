@@ -1,18 +1,18 @@
----
-title: "Sarah Ledjou"
+JPG
+title: "B.Sprout Lab"
 layout: archive
-excerpt: "I want this github-page to be my portfolio but also an example on how awesomely usefull github can be."
+excerpt: "Le site du fablab B.Sprout Lab par l'outil Github."
 header:
-  image: /assets/images/jens-lelie-15662.jpg
-  teaser: /assets/images/jens-lelie-15662-th.jpg
+  image: /assets/images/LogoFinal.jpng
+  teaser: /assets/images/LogoFinal.jpng
 sidebar:
-  - title: "Role"
-    image: /assets/images/168009_1699340295816_3374705_n.jpg
+  - title: "Edito"
+    image: /assets/images/IMG_9940.JPG
     image_alt: "me"
     text: "Explorer"
-  - title: "Responsibilities"
+  - title: "Who are we?"
     text: "co-Founder @[B.SproutLab](http://)<br />
-    urban deigner and fabmanager @[B.SproutLab](http://)<br />
+   Fablab @[B.SproutLab](http://)<br />
  
     "
 gallery:
@@ -30,6 +30,5 @@ gallery:
 ## my exploration on minisite github
 ### What exploration?
 
-Hola! je m'appelle Sarah et je ne sais pas encore comment remplir cette partie! je reviens!
-
+Bienvenue sur la page officielle de BSprout Lab!
 ![image](https://user-images.githubusercontent.com/12049360/32323816-861f4b74-bfc9-11e7-9795-781b90381454.png)
