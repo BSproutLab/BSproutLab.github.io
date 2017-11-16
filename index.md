@@ -3,8 +3,8 @@ title: "B.Sprout Lab"
 layout: archive
 excerpt: "Le site du fablab B.Sprout Lab par l'outil Github."
 header:
-  image: /assets/images/LogoFinal.jpng
-  teaser: /assets/images/LogoFinal.jpng
+  image: /assets/images/LogoFinal1.jpg
+  teaser: /assets/images/LogoFinal1.jpg
 sidebar:
   - title: "Edito"
     image: /assets/images/IMG_9940.JPG
